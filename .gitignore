@@ -1,0 +1,8 @@
+.DS_Store
+datasets/
+.idea
+vagan/__pycache__/*
+vagan/runs
+README-v2.md
+result/
+vagan-result/
