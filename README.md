@@ -3,7 +3,7 @@
 
 ### File
 datasets  # container of data  
-ganvade # core code  
+vagan # core code  
 runs # the trained model   
 
 ---
