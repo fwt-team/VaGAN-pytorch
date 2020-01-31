@@ -26,6 +26,8 @@ __params:__
 -v version of model  
 -ns control the switch of noise  
 
-__example:__  
+__example（GMM）:__  
 python train.py -r vagan -n 500 -s mnist -v 1 -ns 0  
+__example（SMM）:__  
+python train_smm_v2.py -r vagan -n 500 -s mnist -v 2 -ns 0  
 

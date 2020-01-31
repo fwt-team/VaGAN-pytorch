@@ -6,7 +6,7 @@
 @Csdn: https://blog.csdn.net/AndyViky
 @File: train_smm_v2.py
 @Time: 2019/10/14 下午4:52
-@Desc: train_smm_v2.py
+@Desc: training code of VaGAN-SMM
 """
 
 try:
