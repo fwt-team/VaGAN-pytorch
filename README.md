@@ -31,3 +31,6 @@ python train.py -r vagan -n 500 -s mnist -v 1 -ns 0
 __example（SMM）:__  
 python train_smm_v2.py -r vagan -n 500 -s mnist -v 2 -ns 0  
 
+### Result
+__trained model:__  
+https://drive.google.com/drive/folders/1PO_uRSCBJn6t4TVkjSo9_x_QTxtanujl?usp=sharing
