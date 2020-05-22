@@ -43,16 +43,12 @@ class Noisy_Data:
     def __init__(self):
 
         self.datas = None
-        self.rate = THRESHOLD
-        self.length = 0
 
     def get_datas(self, data_name):
 
         if self.datas is None:
             path = os.path.join(DATASETS_DIR, '{}_noisy.csv'.format(data_name))
-            datas = pd.read_csv(path, index_col=[0]).values
-            self.length = int((datas.shape[0] / 0.5 - 10000) * self.rate)
-            self.datas = datas[:self.length]
+            self.datas = pd.read_csv(path, index_col=[0]).values
             return self.datas
         else:
             return self.datas
