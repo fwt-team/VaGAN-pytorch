@@ -1,4 +1,5 @@
 # VaGAN-Pytorch
+Paper: Clustering Analysis via Deep Generative Models With Mixture Models
 ---
 
 ### File
@@ -34,3 +35,17 @@ python train_smm_v2.py -r vagan -n 500 -s mnist -v 2 -ns 0
 ### Result
 __trained model:__  
 https://drive.google.com/drive/folders/1PO_uRSCBJn6t4TVkjSo9_x_QTxtanujl?usp=sharing
+
+---
+### Reference
+If you use our code in your work, please cite our paper. 
+
+    @ARTICLE{YANG2020,
+    author={L. {Yang} and W. {Fan} and N. {Bouguila}},
+    journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+    title={Clustering Analysis via Deep Generative Models With Mixture Models}, 
+    year={2020},
+    volume={},
+    number={},
+    pages={1-11},}
+
