@@ -41,12 +41,13 @@ https://drive.google.com/drive/folders/1PO_uRSCBJn6t4TVkjSo9_x_QTxtanujl?usp=sha
 ### Reference
 If you use our code in your work, please cite our paper. 
 
-    @ARTICLE{YANG2020,
-    author={L. {Yang} and W. {Fan} and N. {Bouguila}},
-    journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-    title={Clustering Analysis via Deep Generative Models With Mixture Models}, 
-    year={2020},
-    volume={},
-    number={},
-    pages={1-11},}
+    @ARTICLE{YANG2020,  
+    author={Yang, Lin and Fan, Wentao and Bouguila, Nizar},  
+    journal={IEEE Transactions on Neural Networks and Learning Systems},   
+    title={Clustering Analysis via Deep Generative Models With Mixture Models},   
+    year={2022},  
+    volume={33},  
+    number={1},  
+    pages={340-350},  
+    doi={10.1109/TNNLS.2020.3027761}}
 
